@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Andrew Wood',
+  name: 'Andew Wood',
   domain: 'andrewwoood',
   author: 'Andrew Wood',
 
   // open graph metadata (optional)
-  description: 'Andrew Wood\'s personal website',
+  description: "Andrew Wood's personal website",
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
