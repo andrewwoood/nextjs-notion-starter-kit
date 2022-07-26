@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Andew Wood',
+  name: 'Andrew Wood',
   domain: 'andrewwoood',
   author: 'Andrew Wood',
 
