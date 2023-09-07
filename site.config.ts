@@ -17,10 +17,10 @@ export default siteConfig({
   description: 'Andrew Wood\'s personal website',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  github: 'andrewwoood',
+  twitter: 'WriteWithWood',
+  // github: 'andrewwoood',
   linkedin: '-andrewwood',
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://almanack.carrd.co/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
