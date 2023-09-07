@@ -17,10 +17,10 @@ export default siteConfig({
   description: "Andrew Wood's personal website",
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  github: 'andrewwoood',
+  twitter: 'WriteWithWood',
+  // github: 'andrewwoood',
   linkedin: '-andrewwood',
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://almanack.carrd.co/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -55,10 +55,6 @@ export default siteConfig({
     {
       title: 'About',
       pageId: '2c3559b0d5a849da8928b6be3c0189c1'
-    },
-    {
-      title: 'Contact',
-      pageId: '0eab7f50479a4fcba9bd8e65305117a4'
     }
   ]
 })
