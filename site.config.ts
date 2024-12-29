@@ -18,10 +18,11 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'WriteWithWood',
-  // github: 'andrewwoood',
-  linkedin: '-andrewwood',
+  github: 'andrewwoood',
+  // linkedin: '-andrewwood',
   // newsletter: 'https://almanack.carrd.co/', // optional newsletter URL≥
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'writewithwood', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  instagram: 'andrewwoood', // 
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

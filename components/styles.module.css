@@ -218,3 +218,11 @@
 .hidden {
   visibility: hidden;
 }
+
+.instagram {
+  color: #e4405f;
+}
+
+.instagram:hover {
+  color: #d81f45;
+}

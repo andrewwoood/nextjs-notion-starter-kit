@@ -128,6 +128,14 @@
   border-color: #777;
 }
 
+.instagram {
+  color: #e4405f;
+}
+
+.instagram:hover {
+  color: #d81f45;
+}
+
 @media only screen and (max-width: 768px) {
   .links {
     position: relative;
