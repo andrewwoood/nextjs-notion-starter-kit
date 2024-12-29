@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'WriteWithWood',
   // github: 'andrewwoood',
   linkedin: '-andrewwood',
-  newsletter: 'https://almanack.carrd.co/', // optional newsletter URL
+  // newsletter: 'https://almanack.carrd.co/', // optional newsletter URL≥
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
