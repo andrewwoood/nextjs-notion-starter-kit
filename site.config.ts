@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'andrewwoood',
   // linkedin: '-andrewwood',
   // newsletter: 'https://almanack.carrd.co/', // optional newsletter URL≥
-  youtube: 'writewithwood', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@writewithwood', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
   instagram: 'andrewwoood', // 
 
   // default notion icon and cover images for site-wide consistency (optional)

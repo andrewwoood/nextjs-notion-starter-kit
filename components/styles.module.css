@@ -118,6 +118,10 @@
   color: #777777;
 }
 
+.instagram:hover {
+  color: #e4405f;
+}
+
 .comments {
   width: 100%;
   margin-top: 2em;
@@ -219,10 +223,4 @@
   visibility: hidden;
 }
 
-.instagram {
-  color: #e4405f;
-}
 
-.instagram:hover {
-  color: #d81f45;
-}

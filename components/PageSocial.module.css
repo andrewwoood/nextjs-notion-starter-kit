@@ -128,12 +128,12 @@
   border-color: #777;
 }
 
-.instagram {
-  color: #e4405f;
+.instagram .actionBgPane {
+  background: #e4405f;
 }
 
 .instagram:hover {
-  color: #d81f45;
+  border-color: #e4405f;
 }
 
 @media only screen and (max-width: 768px) {
